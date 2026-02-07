@@ -1,0 +1,1 @@
+import{s as t}from"./request-BYh0DQqL.js";const c=e=>t.post("/api/feedback",e),s=e=>t.get("/api/feedback",{params:e}),d=e=>t.put(`/api/feedback/${e.id}`,e),b=e=>t.delete(`/api/feedback/${e}`),r=e=>t.delete("/api/feedback/batch",{data:e});export{r as b,b as d,s as g,c as s,d as u};

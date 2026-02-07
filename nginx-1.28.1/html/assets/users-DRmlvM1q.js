@@ -1,0 +1,1 @@
+import{s}from"./request-BYh0DQqL.js";const r=async()=>s.get("/api/admin/users"),n=async(e,a)=>s.put(`/api/admin/users/${e}`,a),i=async e=>s.delete(`/api/admin/users/${e}`),p=async e=>s.delete("/api/admin/users/batch",{data:e});export{p as b,i as d,r as g,n as u};

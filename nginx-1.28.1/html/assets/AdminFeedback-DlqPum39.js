@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as a,c as s,a as t}from"./index-8fw8rqfs.js";const c={},d={class:"admin-feedback"};function n(r,e){return a(),s("div",d,[...e[0]||(e[0]=[t("h1",null,"意见反馈",-1)])])}const i=o(c,[["render",n],["__scopeId","data-v-e625dde1"]]);export{i as default};

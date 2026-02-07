@@ -1,0 +1,1 @@
+import{a as t}from"./index-B9ygI19o.js";const r=t.create({baseURL:"",timeout:5e3,headers:{"Content-Type":"application/json;charset=utf-8"}});r.interceptors.response.use(e=>e.data,e=>Promise.reject(e));export{r as s};
