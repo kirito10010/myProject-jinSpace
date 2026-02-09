@@ -1,2 +1,4 @@
 2026/02/07 16:02:34 [notice] 18704#15876: signal process started
 2026/02/07 16:02:34 [error] 18704#15876: OpenEvent("Global\ngx_reload_18700") failed (2: The system cannot find the file specified)
+2026/02/08 16:37:21 [notice] 21632#19340: signal process started
+2026/02/08 16:37:21 [error] 21632#19340: OpenEvent("Global\ngx_stop_7844") failed (2: The system cannot find the file specified)
